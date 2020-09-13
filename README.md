@@ -1,6 +1,6 @@
 ### survey_forms-MCQ
 
-hosted on https://tiger-survey.web.app/takeSurvey
+hosted on https://tiger-survey.web.app/
 
 Developed using:
 
